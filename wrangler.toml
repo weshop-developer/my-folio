@@ -1,0 +1,8 @@
+name = "my-folio"
+compatibility_date = "2024-04-01"
+pages_build_output_dir = ".next"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "portfolio-db"
+database_id = "f27ebc9c-e86f-4c5b-a96f-2d69eefc1e0f" # Will be filled by user during deployment
